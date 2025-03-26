@@ -40,7 +40,8 @@ Identify the lowest-risk aircraft for the company’s new aviation division by a
 1. **Aircraft Incident Rates by Age and Engine Type**  
    *Purpose:* Compare incident frequency across aircraft age groups and engine types.  
    *Insight:* Turboprops under 10 years old had the lowest risk-to-cost ratio.  
-   ![Plot](plot.png)
+   ![Plot]("C:\Users\user\Documents\Flatiron\phase_1_project\phase_1_project\assets\Engines vs no of accidents.png")
+
 
 2. **Maintenance Cost Distribution by Model**  
    *Purpose:* Highlight cost variability across top aircraft models.  
