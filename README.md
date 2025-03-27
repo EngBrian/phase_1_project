@@ -15,7 +15,7 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
   - Regional operational data (e.g., weather, air traffic density).
 
 ### Tools Used
-- **Programming Language:** Python, Jupyter Notebook
+- **Programming Language:** Python
 - **Libraries:** Pandas, NumPy, matplotlib
 
 ---
@@ -36,6 +36,7 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 ### Location Factor
 - **High-Risk Regions:** Anchorage experienced the most accidents (over 400), followed by Miami, Fairbanks, and Houston, which recorded         similar accident numbers.
 
+*Link to Tableau Visualizations* : https://public.tableau.com/app/profile/brian.kipyegon8353/viz/Aviation_Data_Vizzes/AnalysisofAviationAccidentsImpactofLocationFlightPhaseandEngineTypeonAccidentFrequency
 
 ## 📈 Visualization Highlights
 
@@ -90,12 +91,7 @@ Your company is expanding in to new industries to diversify its portfolio. Speci
 
 2. *Choose Multi-Engine Aircraft for Safety*: Single-engine aircraft have the highest accident rates. Investing in multi-engine planes reduces failure risks and enhances operational safety.
 
-3. *Mitigate Risks in High-Accident Regions*: Anchorage, Miami, Fairbanks, and Houston report the most accidents. Implement stricter safety protocols, advanced training, and better maintenance strategies when operating in these areas.
+3. *Prioritize Low-Risk Engine Types*: Avoid aircraft with reciprocating engines, which demonstrate higher accident rates, and transition to safer alternatives like LR engines.
 
 ---
 
-## 🛠️ How to Reproduce
-
-### Clone the Repository
-```bash
-git clone git@github.com:EngBrian/phase_1_project.git
